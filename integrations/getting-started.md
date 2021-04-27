@@ -1,5 +1,5 @@
 ---
-description: "These docs outline how to integrate a new project into the Boardroom governance portal \U0001F680"
+description: "This section outlines how to integrate a new project into the Boardroom governance portal \U0001F680"
 ---
 
 # Getting Started
@@ -8,8 +8,8 @@ We're glad you're interested in adding your project to the Boardroom portal! Bef
 
 | Supported Framework | Documentation  |
 | :--- | :--- |
-| ⚡ Snapshot | [https://docs.snapshot.org/](https://docs.snapshot.org/) |
-| Governor Alpha / Bravo | [https://compound.finance/docs/governance](https://compound.finance/docs/governance) |
+| ⚡ Snapshot | [https://docs.snapshot.org](https://docs.snapshot.org/) |
+| 📄 Governor Alpha / Bravo | [https://compound.finance/docs/governance](https://compound.finance/docs/governance) |
 
 {% hint style="info" %}
 We also support Gnosis Safe multisig transactions under our new 'Finance' tab 🌟
